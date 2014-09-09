@@ -8,7 +8,7 @@ Go to website.
 
 [Group Mascot]
 
-Group Name:garva
+Group Name:garba
 
 Members:
 * Member 1-ekta hota
